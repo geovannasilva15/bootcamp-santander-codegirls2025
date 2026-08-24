@@ -4,6 +4,9 @@
 
 </div>
 
+![Visão explicativa do projeto Santander Code Girls 2025](assets/readme-project-overview.svg)
+
+
 <div align="center">
 
 [![Santander](https://img.shields.io/badge/Santander-Code_Girls-EC0000?style=for-the-badge)](#)
